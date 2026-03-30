@@ -1,52 +1,45 @@
 # Account Brief — Example
 
-> Calibration reference. This is what a sharp brief looks like when the template is used well.
+> Calibration reference. Shows what the output should look like when the prompt is used well.
 
 ---
 
-**Company:** Meridian Logistics (Series C, ~300 employees, B2B freight brokerage)
+**Company:** Meridian Logistics
 **Contact:** James Okafor — Head of Sales Operations
+**Signal:** Series C close ($45M, 8 months ago) + aggressive enterprise sales hiring
 
-**Context used:** LinkedIn shows 4 years at Meridian, promoted from Sales Ops Analyst.
-Company raised $45M Series C 8 months ago. Hiring aggressively into enterprise sales.
-Recent LinkedIn post from CEO about "scaling without chaos."
-
----
-
-**1. What they likely care about**
-
-- Keeping Salesforce functional as headcount doubles — he's seen it break before
-- Defending his setup to new enterprise AEs who come in with opinions about "how it should work"
-- Forecast integrity: leadership is now asking harder questions post-Series C
-- Reducing the gap between what reps do and what gets logged
-- Proving RevOps ROI to a leadership team that may not have valued it before the raise
-
-**2. What's probably broken or at risk**
-
-- The org was built for a 40-person sales team and hasn't been properly restructured for 100+
-- Sales process was informal pre-C; stages and fields were added on demand, not designed
-- New enterprise motion has different cycle length and buyer map — the current opp object doesn't reflect it
-- Someone (probably James) is manually reconciling the forecast every week because the data isn't clean enough to trust automatically
-- Permissions and profiles are a mess — grown organically, nobody owns the cleanup
-
-**3. Where Salesforce is likely underperforming**
-
-- **Opportunity management:** stages don't map to the new enterprise sales motion
-- **Forecasting:** category overrides are doing the heavy lifting; field data doesn't support the number
-- **Adoption:** enterprise AEs are senior, opinionated, and not logging activity consistently
-- **Data model:** account hierarchy and contact roles weren't built for multi-stakeholder enterprise deals
-- **Reporting:** dashboards are probably stale or only trusted by 1–2 people
-
-**4. Why this is relevant to Foundree42**
-
-Post-Series C orgs in a scaling motion are exactly where Salesforce debt becomes a liability.
-James is likely holding it together manually — we make that structural, not heroic.
-
-**5. Angle to engage**
-
-> "Series C usually means Salesforce goes from 'good enough' to 'actively in the way' within 6 months.
-> Has the enterprise motion exposed any cracks in how your org is set up?"
+**Notes used:** LinkedIn profile, CEO post about "scaling without chaos," company careers page showing 12 open enterprise AE roles.
 
 ---
 
-*Brief prep time: ~10 minutes with the prompt template. Enough to write one sharp email and ask one real question on a call.*
+### 1. Company Snapshot
+
+Meridian is a B2B freight brokerage (~300 employees) that built its business on mid-market shippers and is now pushing into enterprise. The Series C suggests the model is working but the infrastructure — including the go-to-market stack — was built for a different stage. They are in the middle of a motion change, not just a headcount change.
+
+---
+
+### 2. Contact Context
+
+James owns the systems, process, and data layer that enterprise sales runs on. He is measured on forecast accuracy, rep productivity, and CRM hygiene — none of which get easier when headcount doubles and the deal profile changes. He is likely caught between a leadership team that expects the org to scale cleanly and an AE population that has opinions about how it should work.
+
+---
+
+### 3. Signal Interpretation
+
+Hiring 12 enterprise AEs into a Salesforce org designed for a transactional, high-velocity mid-market motion is an operational stress test, not just a growth moment. Enterprise deals have longer cycles, more stakeholders, and different stage logic — none of which the current setup was built to support. The "scaling without chaos" framing from the CEO suggests leadership knows it's a risk. That pressure lands on James.
+
+---
+
+### 4. Core Hypothesis
+
+The opportunity object and forecast model were built for a motion that no longer matches how the company sells — and patching them in real time, while onboarding senior AEs who expect the system to reflect how they work, is where execution breaks down.
+
+---
+
+### 5. Angle
+
+When companies move from mid-market to enterprise, the CRM usually lags by two quarters — stages get stretched, forecast categories start carrying extra weight, and activity data becomes inconsistent because senior AEs log differently than SDRs. That gap tends to show up first in forecast calls, where the number is right but nobody trusts how you got there. Curious whether that tension is showing up yet in how your team is using the org.
+
+---
+
+*Brief prep time: ~10 minutes. Enough context to write one sharp email and ask one real question on a call.*
