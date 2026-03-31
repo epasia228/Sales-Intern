@@ -16,6 +16,7 @@ Title:
 Company:
 Context (post, new role, trigger event):
 Angle (optional — if blank, derive from context):
+Recent content (optional — paste a recent LinkedIn post or blog angle):
 ```
 
 ---
@@ -58,6 +59,7 @@ The message names something uncomfortable but true. It earns attention by being 
 - Don't explain what Foundree42 does — show it through the angle
 - If the angle isn't provided, derive the most specific and useful one from the context
 - Sound like someone who knows this problem from the inside
+- If recent content is provided, the message may reference it naturally ("I've been thinking about X lately..." or "I wrote about this recently...") — but only if it connects organically to the contact's situation. Never force it.
 
 ---
 
