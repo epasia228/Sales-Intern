@@ -25,17 +25,18 @@ Gage owns commercial operations — pipeline management, forecasting, CRM system
 
 ### 4. Core Hypothesis
 
-Virta built their commercial stack fast to keep pace with growth — Salesforce plus three integrated tools with no dedicated admin — and is now at the stage where the seams are showing in forecast accuracy and pipeline visibility, right as they're trying to scale the sales team and expand into government payers.
+Virta's Salesforce org was stood up fast to support early employer sales — and now it's running a scaled, multi-product, government-adjacent commercial motion on a data model that was never designed for it. Hiring a first admin doesn't fix that. It just gives someone ownership of the debt.
 
 ---
 
 ### 5. Angle
 
-Most high-growth digital health companies hit a specific moment: the commercial stack that worked at $50M ARR — Salesforce connected to HubSpot, SalesLoft, and LeanData, managed by whoever had the most Salesforce access — stops being reliable at $150M when the sales team doubles and enterprise deal cycles get longer. The symptoms are usually the same: pipeline data nobody fully trusts, attribution that doesn't add up, and a forecast that requires manual reconciliation before every board call. Hiring a first Salesforce Admin is the right call, but it doesn't fix the underlying process and data model issues — it just gives someone ownership of a system that still needs to be rebuilt around how the business actually sells. Curious whether you're seeing that tension as you scale the commercial team.
+We've worked with digital health companies at exactly this inflection — Salesforce plus a stack of integrated tools, built fast, no dedicated admin, and a revenue trajectory that's outpaced the infrastructure underneath it. The tell is always the same: HubSpot handles top-of-funnel, SalesLoft runs sequences, LeanData routes leads, and Salesforce is supposed to tie it all together — but nobody owns the data model that makes the handoffs clean. Hiring a first admin is the right move, but the real question is whether the foundation they're inheriting can support where the commercial team is going. That's a different project than admin work. Curious whether that distinction has come up as you've scoped the role.
 
 ---
 
 **Primary contact:** Nathan Gage — VP Commercial Operations
 **Secondary contact:** Amit Shah — COO (if Gage is in seat transition or the problem is escalating)
-**Key confirmation:** Salesforce Admin role posting confirms active Salesforce investment — this is not a cold-CRM account
+**Foundree42 relevance:** Direct experience with digital health commercial stack cleanup — Health Cloud, multi-tool integration debt, employer sales motion design
+**Key confirmation:** Salesforce Admin posting confirms active investment — this is not a cold-CRM account
 **Timing:** First admin hire + VP Sales search + GLP-1 market tailwind = commercial buildout is the #1 operational priority right now

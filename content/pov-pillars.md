@@ -65,6 +65,21 @@ The difference between a Salesforce org that works and one that doesn't is usual
 
 ---
 
+## 6. Healthcare Is a Vertical, Not a Template
+
+Health Cloud implementations fail for a specific reason: clinical workflows get mapped to commercial objects, and nobody owns the boundary between the two.
+VBC companies, hospital networks, and digital health platforms all have the same underlying problem — Salesforce was stood up to support one motion (practice outreach, patient access, employer sales) and then inherited every other commercial function without a redesign.
+We've built and fixed these orgs. The patterns are consistent. The credibility is real.
+
+**Shows up as:**
+- VBC commercial ops built for ACO enrollment, not scaled employer/payer sales
+- Hospital networks with patient access, provider relations, and marketing all fighting over the same org
+- Digital health platforms with Salesforce + three other tools and no coherent data model
+- Agentforce in healthcare: prior auth workflows, care gap outreach, referral pipeline enforcement — not just sales
+- Health Cloud implementations that need to be restructured, not rebuilt from scratch
+
+---
+
 ## Usage
 
 - Every LinkedIn post should have a clear POV pillar it anchors to

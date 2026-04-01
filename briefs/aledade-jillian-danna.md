@@ -25,16 +25,17 @@ A new CCO hire, a $500M credit facility, and a mid-year acquisition in the same 
 
 ### 4. Core Hypothesis
 
-Aledade's sales ops layer was built for a company growing through organic network expansion — it wasn't designed for the multi-acquisition, multi-payer, multi-state commercial motion they're running now, and a new CCO with capital to deploy will surface that gap quickly.
+Aledade's sales ops layer was built for organic network expansion — practice outreach, ACO enrollment, relationship-managed payer deals. That model doesn't hold after two acquisitions, a new CCO, and $500M in growth capital. The CRM reflects the company they were, not the one they're building.
 
 ---
 
 ### 5. Angle
 
-Value-based care networks that grow through acquisition tend to hit the same wall: the commercial operations infrastructure reflects the original model — direct practice outreach, ACO enrollment, relationship-managed payer deals — not the scaled, multi-channel motion that emerges after two or three acquisitions and a new C-suite. The first thing a new CCO usually asks for is a clean forecast and a reliable pipeline view. Whether Aledade's current setup can deliver that cleanly is worth knowing before the question gets asked in a board meeting. Curious whether the CCA integration surfaced anything on that front.
+We've worked inside VBC commercial orgs at this stage — post-acquisition, new C-suite, capital deployed. The pattern is consistent: the Salesforce instance was configured for the original motion, and every new payer relationship, acquired practice network, and commercial hire gets layered on top without a redesign. The first thing a new CCO asks for is a clean forecast and a reliable pipeline view — and that's usually when the gaps surface. Whether Aledade's current setup can deliver that cleanly before it gets asked in a board meeting is worth knowing now. Curious whether the CCA integration has surfaced anything on that front.
 
 ---
 
 **Primary contact:** Jillian D'Anna — Sr Director Sales Operations
 **Secondary contact:** New CCO (name TBC — confirm hire on LinkedIn) — highest mandate, newest in seat
+**Foundree42 relevance:** Direct VBC commercial ops experience — not a healthcare generalist pitch, a pattern we've seen and fixed
 **Timing:** New CCO + credit facility + acquisition = commercial buildout is live now; this is a high-urgency window
